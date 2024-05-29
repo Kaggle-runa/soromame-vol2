@@ -1,5 +1,5 @@
-# soromame-vol3
-soromame vol3に使うデータをまとめたレポジトリです。
+# soromame-vol2
+soromame vol2に使うデータをまとめたレポジトリです。
 
 Retrieval-based-Voice-Conversion-WebUIの実行コード：  
 (Colab Pro以上のプランで動くことを確認済み 2024年5月15日時点)
